@@ -24,8 +24,8 @@ navbar-links:
   About Us: "aboutme"
   Group Members: "groupmembers"
   Publications:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - PubMed: "https://pubmed.ncbi.nlm.nih.gov/?term=%28Behrendt+Rayk%5BAuthor%5D%29"
+  Social: "socialupdate"
 
 ################
 # --- Logo --- #
