@@ -20,7 +20,6 @@ author: The-Behrendt-Lab
 ###############################################
 
 navbar-links:
-  News: "news"
   About Us: "aboutme"
   Group Members: "groupmembers"
   Publications:
